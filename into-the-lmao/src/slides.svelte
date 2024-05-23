@@ -9,7 +9,7 @@
 <Presentation>
 	<div class="reveal">
 		<div class="slides">
-			
+			<!--perkenalan, definisi, contoh start in here-->
 		  <section>
 			<section data-background-image={AnakBuanganUNAIR} data-background-repeat="repeat" />
 			<section data-background-image="https://mir-s3-cdn-cf.behance.net/project_modules/hd/d683fb40496909.5782192e0abaf.gif" data-background-repeat="repeat" />
@@ -35,7 +35,9 @@
 			<section data-background-image="https://blog.sociallyin.com/hs-fs/hubfs/GIF%20of%20the%20online%20platform%20TikTok%20Shop.gif?width=1889&height=852&name=GIF%20of%20the%20online%20platform%20TikTok%20Shop.gif" data-background-repeat="repeat" />
 			<section data-background-image="https://c.tenor.com/REmnLW7fuIYAAAAC/tenor.gif" data-background-repeat="repeat" />
 		  </section>
+		  <!--perkenalan, definisi, contoh stop in here-->
 
+		  <!--shopify, definisi, stats, dkk starts in here-->
 		  <section>
 			<section data-background-image={AnakBuanganUNAIR} data-background-repeat="repeat" />
 			<section data-background-image="https://64.media.tumblr.com/9021802703768c4094f753b6166058d9/ba90aa8ed3e1e9de-c7/s1280x1920/7e6e36cd356a06ad192f88e81f130224ce812529.gifv" data-background-repeat="repeat">
@@ -65,8 +67,37 @@
 			<TotalNumber />
 			<UnesaTaek />	 
 		  </section>
+		  <!--shopify, definisi, stats, dkk stops in here-->
 
-		  <!--berlanjut-->
+		  <!--5 features starts in here-->
+		  <section>
+			<section data-background-image="https://data.textstudio.com/output/sample/animated/8/5/2/5/feature-41-15258.gif" data-background-repeat="repeat" />
+			<section data-background-image="https://i.pinimg.com/originals/0b/49/96/0b499698edd977c71ca46b7888b5be32.gif" data-background-repeat="repeat">
+				<p style="font-size: 3rem; text-transform:none; color:white">
+					Kemudahan dalam pemakaian
+				</p>
+			</section>
+			<section data-background-image="https://assets-global.website-files.com/62c7d8a855813a2bbe39ae10/62c7d8a855813a113539b4c8_62ac140663639b1d11003faf_1.gif" data-background-repeat="repeat" />
+			<section data-background-image="https://www.greenpeace.org.au/static/planet4-australiapacific-stateless/2024/02/696417d3-giphy.gif" data-background-repeat="repeat">
+				<p style="font-size: 3rem; text-transform:none; color:white">
+					Customizable templates
+				</p>
+			</section>
+			<section data-background-image="https://cdn.shopify.com/s/files/1/0090/9236/6436/files/ezgif.com-gif-maker_copy_3_1024x1024.gif?v=1626627293" data-background-repeat="repeat" />
+			 <section data-background-image="https://cdn.dribbble.com/users/614270/screenshots/14575431/media/4907a0869e9ed2ac4e2d1c2beaf9f012.gif" data-background-repeat="repeat">
+				<p style="font-size: 3rem; text-transform:none; color:black">
+					Gerbang pembayaran
+				</p>
+			</section>
+			<section data-background-image="https://e8y3g8u9.rocketcdn.me/wp-content/uploads/2022/09/Shopify-Plus-Limitation-for-Shipping-and-Payment.gif" data-background-repeat="repeat" />
+		  </section>
+		  <!--5 features stops in here-->
+
+		  <!--??? starts here-->
+		  <section>
+			<!--kehabisan ide, lanjut besok-->
+		  </section>
+		  <!--??? stops here-->
 		</div>
 	</div>
 </Presentation>
