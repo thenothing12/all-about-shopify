@@ -1,13 +1,15 @@
 <script lang="ts">
 	import { Presentation } from '@components';
 	import AnakBuanganUNAIR from '../src/public/iya.gif';
-	import Progress from './progress.svelte'
+	import Progress from './progress.svelte';
+	import TotalNumber from './total-number.svelte';
+	import UnesaTaek from './unesaTAEK.svelte'
 </script>
 
 <Presentation>
 	<div class="reveal">
 		<div class="slides">
-			<!--perkenalan start disini-->
+			
 		  <section>
 			<section data-background-image={AnakBuanganUNAIR} data-background-repeat="repeat" />
 			<section data-background-image="https://mir-s3-cdn-cf.behance.net/project_modules/hd/d683fb40496909.5782192e0abaf.gif" data-background-repeat="repeat" />
@@ -28,16 +30,12 @@
 				</p>
 			</section>
 		  </section>
-		  	<!--perkenalan berhenti disini-->
 
-		  	<!--contoh-contoh start disini-->
 		  <section>
 			<section data-background-image="https://blog.sociallyin.com/hs-fs/hubfs/GIF%20of%20the%20online%20platform%20TikTok%20Shop.gif?width=1889&height=852&name=GIF%20of%20the%20online%20platform%20TikTok%20Shop.gif" data-background-repeat="repeat" />
 			<section data-background-image="https://c.tenor.com/REmnLW7fuIYAAAAC/tenor.gif" data-background-repeat="repeat" />
 		  </section>
-		  	<!--contoh-contoh stop disini-->
 
-			<!--mulai pembahasan Shopify-->
 		  <section>
 			<section data-background-image={AnakBuanganUNAIR} data-background-repeat="repeat" />
 			<section data-background-image="https://64.media.tumblr.com/9021802703768c4094f753b6166058d9/ba90aa8ed3e1e9de-c7/s1280x1920/7e6e36cd356a06ad192f88e81f130224ce812529.gifv" data-background-repeat="repeat">
@@ -45,18 +43,13 @@
 					Shopify adalah platform e-commerce komprehensif yang memungkinkan individu dan bisnis untuk membuat, menyesuaikan, dan mengelola toko online mereka sendiri
 				</h1>
 			</section>
-			<!--reminder untuk menitikberatkan ke tahun sebelum 2006-->
-			<!--for goodness gracious, internet belum semodern sekarang-->
+			<section data-background-image="https://64.media.tumblr.com/a96cb4004e420a3e4c751ee854060bde/tumblr_nihyjuj5Hj1tiaxibo1_1280.gif" data-background-repeat="repeat" />
+			<section data-background-image="https://i.pinimg.com/736x/16/62/b7/1662b745af92a46313b8314f4813b282.jpg" />
 			<section data-background-image="https://i.pinimg.com/originals/3d/17/cb/3d17cb7391b0d9cb7d669c20c23a4230.gif" data-background-repeat="repeat">
 				<span class="fragment highlight-red">
 					ketidakpuasan terhadap solusi E-Commerce yang ada
 				</span>
 			</section>
-			<section data-background-image="https://64.media.tumblr.com/a96cb4004e420a3e4c751ee854060bde/tumblr_nihyjuj5Hj1tiaxibo1_1280.gif" data-background-repeat="repeat" />
-			<section data-background-image="https://i.pinimg.com/736x/16/62/b7/1662b745af92a46313b8314f4813b282.jpg" />
-			<section data-background-image="https://i.insider.com/513cbd916bb3f76c45000019?width=1024&format=jpeg" />
-			<!--reminder untuk menitikberatkan ke tahun sebelum 2006-->
-			<!--for goodness gracious, internet belum semodern sekarang-->
 		  </section>
 
 		  <section>
@@ -68,9 +61,12 @@
 					Kanada
 				</h1>
 			</section>
-			<section data-background-iframe="https://rubyonrails.org/" data-background-interactive />
-			<Progress />	 
+			<Progress />
+			<TotalNumber />
+			<UnesaTaek />	 
 		  </section>
+
+		  <!--berlanjut-->
 		</div>
 	</div>
 </Presentation>
