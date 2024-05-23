@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { Presentation } from '@components';
-	import AnakBuanganUNAIR from '../src/public/iya.gif'
+	import AnakBuanganUNAIR from '../src/public/iya.gif';
+	import Progress from './progress.svelte'
 </script>
 
 <Presentation>
@@ -46,7 +47,12 @@
 			</section>
 			<!--reminder untuk menitikberatkan ke tahun sebelum 2006-->
 			<!--for goodness gracious, internet belum semodern sekarang-->
-			<section data-background-image="https://i.pinimg.com/originals/3d/17/cb/3d17cb7391b0d9cb7d669c20c23a4230.gif" data-background-repeat="repeat" />
+			<section data-background-image="https://i.pinimg.com/originals/3d/17/cb/3d17cb7391b0d9cb7d669c20c23a4230.gif" data-background-repeat="repeat">
+				<span class="fragment highlight-red">
+					ketidakpuasan terhadap solusi E-Commerce yang ada
+				</span>
+			</section>
+			<section data-background-image="https://64.media.tumblr.com/a96cb4004e420a3e4c751ee854060bde/tumblr_nihyjuj5Hj1tiaxibo1_1280.gif" data-background-repeat="repeat" />
 			<section data-background-image="https://i.pinimg.com/736x/16/62/b7/1662b745af92a46313b8314f4813b282.jpg" />
 			<section data-background-image="https://i.insider.com/513cbd916bb3f76c45000019?width=1024&format=jpeg" />
 			<!--reminder untuk menitikberatkan ke tahun sebelum 2006-->
@@ -55,12 +61,16 @@
 
 		  <section>
 			<section data-background-image="https://i.gifer.com/7JM3.gif" class="bg-contain">
-				<p style="3rem; text-transform:none; color:black">
-					Deutsche Qualität
-				</p>
+				<span class="fragment highlight-white">Deutsche Qualität</span>
 			</section>
+			<section data-background-image="https://blogs.manageengine.com/wp-content/uploads/2019/09/Toronto-sign-gif-2.gif" data-background-repeat="repeat">
+				<h1 style="font-size: 3rem; text-transform:none; color:white">
+					Kanada
+				</h1>
+			</section>
+			<section data-background-iframe="https://rubyonrails.org/" data-background-interactive />
+			<Progress />	 
 		  </section>
-		  <!--berlanjut-->
 		</div>
 	</div>
 </Presentation>
