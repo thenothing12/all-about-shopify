@@ -69,7 +69,7 @@
 		  </section>
 		  <!--shopify, definisi, stats, dkk stops in here-->
 
-		  <!--5 features starts in here-->
+		  <!--3 features starts in here-->
 		  <section>
 			<section data-background-image="https://data.textstudio.com/output/sample/animated/8/5/2/5/feature-41-15258.gif" data-background-repeat="repeat" />
 			<section data-background-image="https://i.pinimg.com/originals/0b/49/96/0b499698edd977c71ca46b7888b5be32.gif" data-background-repeat="repeat">
@@ -91,13 +91,25 @@
 			</section>
 			<section data-background-image="https://e8y3g8u9.rocketcdn.me/wp-content/uploads/2022/09/Shopify-Plus-Limitation-for-Shipping-and-Payment.gif" data-background-repeat="repeat" />
 		  </section>
-		  <!--5 features stops in here-->
+		  <!--3 features stops in here-->
 
-		  <!--??? starts here-->
+		  <!--contoh studi kasus (toko online shopify yang berhasil) starts here-->
 		  <section>
-			<!--kehabisan ide, lanjut besok-->
+			<section data-background-image="https://media.licdn.com/dms/image/C4D12AQFcNn5IZxIwqg/article-cover_image-shrink_600_2000/0/1591539871059?e=2147483647&v=beta&t=EMNTZ_6uSAOjaHtX_6yLZSNgHPvEli4IQUcOtLMIoyA" data-background-repeat="repeat">
+				<h1 style="font-size: 3rem; text-transform:none; color:white">
+					Contoh studi kasus
+				</h1>
+			</section>
+			<section data-background-image="https://media.licdn.com/dms/image/D5612AQHi--pGh1Lmvw/article-cover_image-shrink_720_1280/0/1690551960504?e=2147483647&v=beta&t=1C7czr8gLltmjJoApwI_sFqFxM3vKND0c2SO7slN39k" />
+			<section data-background-iframe="https://www.allbirds.com/" data-background-interactive>
+				<div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;">
+					<h2 style="font-size: 3rem; text-transform:none; color:white">Allbirds</h2>
+					<p>sebuah brand alas kaki dan pakaian yang berkelanjutan yang telah menarik perhatian karena merek ini terkenal akan produl-produk yang nyaman dan fashionable, yang terbuat dari bahan alami dan daur ulang.</p>
+				</div>
+			</section>
+			<section data-background-image="https://www.dailybreeze.com/wp-content/uploads/2018/02/spacex.gif?w=500" data-background-repeat="repeat" />
 		  </section>
-		  <!--??? stops here-->
+		  <!--contoh studi kasus (toko online shopify yang berhasil) stops here-->
 		</div>
 	</div>
 </Presentation>
