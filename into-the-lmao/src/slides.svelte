@@ -110,6 +110,10 @@
 			<section data-background-image="https://www.dailybreeze.com/wp-content/uploads/2018/02/spacex.gif?w=500" data-background-repeat="repeat" />
 		  </section>
 		  <!--contoh studi kasus (toko online shopify yang berhasil) stops here-->
+
+		  <section>
+			<section data-background-image="https://cdn.dribbble.com/users/1133416/screenshots/6058767/media/f1767faa238d601c8d2cee6f123e3237.gif" data-background-repeat="repeat" />
+		  </section>
 		</div>
 	</div>
 </Presentation>
