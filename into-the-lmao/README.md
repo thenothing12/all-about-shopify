@@ -1,23 +1,6 @@
-# Animotion
+### <div align="center">About these bunch of files</div>
+<div align="center">This is where all of the files are stored and published to be open source. All of the files in this repository are free to be taken as examples or references as well</div>
 
-This is an Animotion presentation.
 
-## Setup
-
-Install dependencies.
-
-```sh
-pnpm i
-```
-
-Run the development server at http://localhost:5173/.
-
-```sh
-pnpm run dev
-```
-
-Build and preview deploy.
-
-```sh
-pnpm run build && pnpm run preview
-```
+### src:
+- [slides.svelte](../into-the-lmao/src/slides.svelte)
