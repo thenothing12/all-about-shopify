@@ -1,9 +1,12 @@
 <script lang="ts">
 	import { Presentation } from '@components';
-	import AnakBuanganUNAIR from '../src/public/iya.gif';
+	import AkhiriIniSemuaYaTuhan from '../src/public/iya.gif';
 	import Progress from './progress.svelte';
 	import TotalNumber from './total-number.svelte';
-	import UnesaTaek from './unesaTAEK.svelte'
+	import IntoTheLmao from './into-the-lmao.svelte';
+
+	const pesan: string = "UNESA x Panekan";
+	console.log(pesan)
 </script>
 
 <Presentation>
@@ -11,7 +14,7 @@
 		<div class="slides">
 			<!--perkenalan, definisi, contoh start in here-->
 		  <section>
-			<section data-background-image={AnakBuanganUNAIR} data-background-repeat="repeat" />
+			<section data-background-image={AkhiriIniSemuaYaTuhan} data-background-repeat="repeat" />
 			<section data-background-image="https://mir-s3-cdn-cf.behance.net/project_modules/hd/d683fb40496909.5782192e0abaf.gif" data-background-repeat="repeat" />
 			<section data-background-image="https://assets.materialup.com/uploads/6102cce0-dc3c-42a3-ba0e-84d25f8a7cd3/preview.gif" data-background-repeat="repeat">
 				<p style="font-size: 3rem; text-transform:none; color:black">
@@ -39,7 +42,7 @@
 
 		  <!--shopify, definisi, stats, dkk starts in here-->
 		  <section>
-			<section data-background-image={AnakBuanganUNAIR} data-background-repeat="repeat" />
+			<section data-background-image={AkhiriIniSemuaYaTuhan} data-background-repeat="repeat" />
 			<section data-background-image="https://64.media.tumblr.com/9021802703768c4094f753b6166058d9/ba90aa8ed3e1e9de-c7/s1280x1920/7e6e36cd356a06ad192f88e81f130224ce812529.gifv" data-background-repeat="repeat">
 				<h1 style="font-size: 3rem; text-transform:none; color:black">
 					Shopify adalah platform e-commerce komprehensif yang memungkinkan individu dan bisnis untuk membuat, menyesuaikan, dan mengelola toko online mereka sendiri
@@ -65,7 +68,7 @@
 			</section>
 			<Progress />
 			<TotalNumber />
-			<UnesaTaek />	 
+			<IntoTheLmao />	 
 		  </section>
 		  <!--shopify, definisi, stats, dkk stops in here-->
 
@@ -104,16 +107,19 @@
 			<section data-background-iframe="https://www.allbirds.com/" data-background-interactive>
 				<div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;">
 					<h2 style="font-size: 3rem; text-transform:none; color:white">Allbirds</h2>
-					<p>sebuah brand alas kaki dan pakaian yang berkelanjutan yang telah menarik perhatian karena merek ini terkenal akan produl-produk yang nyaman dan fashionable, yang terbuat dari bahan alami dan daur ulang.</p>
+					<p>sebuah brand alas kaki dan pakaian yang berkelanjutan yang telah menarik perhatian karena merek ini terkenal akan produk-produk yang nyaman dan fashionable, yang terbuat dari bahan alami dan daur ulang.</p>
 				</div>
 			</section>
 			<section data-background-image="https://www.dailybreeze.com/wp-content/uploads/2018/02/spacex.gif?w=500" data-background-repeat="repeat" />
 		  </section>
 		  <!--contoh studi kasus (toko online shopify yang berhasil) stops here-->
 
+		  <!--one more thingy & selesai-->
 		  <section>
+			<section data-background-image="https://www.wayneparkerkent.com/app/uploads/2017/08/One-more-thing.gif" data-background-repeat="repeat" />
 			<section data-background-image="https://cdn.dribbble.com/users/1133416/screenshots/6058767/media/f1767faa238d601c8d2cee6f123e3237.gif" data-background-repeat="repeat" />
 		  </section>
+		  <!--i'mma kill myself-->
 		</div>
 	</div>
 </Presentation>
